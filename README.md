@@ -1,4 +1,4 @@
-## OLÁ, SEJA BEM VINDO AO MUNDO DOS DADOS! 🔍📊💻
+## Olá, Seja Bem-Vindo ao Mundo dos Dados! 🔍📊💻
 
 <img src="https://media.giphy.com/media/YnTLgXn0zFXjbqF152/giphy.gif" width="100px">
 
