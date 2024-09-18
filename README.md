@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/YnTLgXn0zFXjbqF152/giphy.gif" width="300px">
+<img src="https://media.giphy.com/media/YnTLgXn0zFXjbqF152/giphy.gif" width="150px">
 
 ### Cientista de Dados 🔍📊💻
 <!--
