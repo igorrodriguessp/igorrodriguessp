@@ -28,4 +28,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight" <img width="46%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight" <img width="50%" alt="Top Languages" />
 </p>
-
