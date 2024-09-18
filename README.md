@@ -1,4 +1,5 @@
-### Cientista de Dados 🔍📊💻 <img src="https://media.giphy.com/media/YnTLgXn0zFXjbqF152/giphy.gif" width="150px">
+### Cientista de Dados 
+🔍📊💻 <img src="https://media.giphy.com/media/YnTLgXn0zFXjbqF152/giphy.gif" width="150px">
 
 <!--
 **igorrodriguessp/igorrodriguessp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
