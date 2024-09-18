@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100px">
+![Wave](https://svgshare.com/i/JcT.svg)
 
 <!--
 **igorrodriguessp/igorrodriguessp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
