@@ -14,9 +14,7 @@
  <img  height="40" width="50" alt="rapha-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  <img  height="40" width="50" alt="rapha-sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
  <img  height="40" width="50" alt="rapha-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img src="image-1.png" alt="descrição da imagem" width="30"/>
 
-</div>    
 
 <hr style="border: 3px solid black;">
  
